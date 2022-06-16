@@ -1,0 +1,50 @@
+{
+    "0": {
+        "mail": "admin@groundstars.gs",
+        "motdepasse": "$2y$10$HMmTixpKnZgnQ67C1xP7Z.FbhV8BW8HK4tS7SaxMDykjW\/zT7788G",
+        "cle": 7343969,
+        "id": 1,
+        "role": "Administrateur",
+        "confirme": 1
+    },
+    "2": {
+        "mail": "user1@groundstars.gs",
+        "motdepasse": "$2y$10$ps9fb2jhr9Ur2e7to8VfD.EkL.DZ4VrVAND0ClyVtJW3ec3SruIXy",
+        "cle": 496422,
+        "id": 2,
+        "role": "Mod\u00e9rateur",
+        "confirme": 1
+    },
+    "3": {
+        "mail": "user2@groundstars.gs",
+        "motdepasse": "$2y$10$MT76IMXaCLGXop3eDQwQQu25nak6CuEPbJol0Re4bW6WTTAyx6Jou",
+        "cle": 2684184,
+        "id": 3,
+        "role": "Mod\u00e9rateur",
+        "confirme": 1
+    },
+    "4": {
+        "mail": "user3@groundstars.gs",
+        "motdepasse": "$2y$10$mC0xqSB12ZmJP.B6FEeHwO1wX07gLW75\/LcXiXnlEPOHGODgFNyX2",
+        "cle": 2003870,
+        "id": 4,
+        "role": "Mod\u00e9rateur",
+        "confirme": 1
+    },
+    "5": {
+        "mail": "david.gatel@groundstars.gs",
+        "motdepasse": "$2y$10$.VwtHS.iaymLpDcacRfji.51HeESqL9g\/M7oDKWmtnEmnvC97Xjzy",
+        "cle": 6723442,
+        "id": 5,
+        "role": "Administrateur",
+        "confirme": 1
+    },
+    "6": {
+        "mail": "francois-regis.menguy@groundstars.gs",
+        "motdepasse": "$2y$10$qLTifnyW.fvHnN0f6k9s4upxPlc5pCJVO4rIkeoJqXAizeZJR1L5S",
+        "cle": 4407964,
+        "id": 6,
+        "role": "Administrateur",
+        "confirme": 1
+    }
+}
